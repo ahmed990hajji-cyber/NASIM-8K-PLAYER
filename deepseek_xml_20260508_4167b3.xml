@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NASIM8KPLAYER" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#00BFFF</item>
+        <item name="colorPrimaryDark">#0A0F1A</item>
+        <item name="colorAccent">#33D6FF</item>
+        <item name="android:windowBackground">#0A0F1A</item>
+    </style>
+</resources>

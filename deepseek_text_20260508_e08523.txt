@@ -1,0 +1,34 @@
+NASIM-8K-PLAYER/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       │   └── com/
+│   │       │       └── nasim/
+│   │       │           └── player/
+│   │       │               ├── SplashActivity.kt
+│   │       │               ├── MainActivity.kt
+│   │       │               └── AddAccountActivity.kt
+│   │       ├── res/
+│   │       │   ├── layout/
+│   │       │   │   ├── activity_splash.xml
+│   │       │   │   ├── activity_main.xml
+│   │       │   │   └── activity_add_account.xml
+│   │       │   ├── values/
+│   │       │   │   ├── colors.xml
+│   │       │   │   └── themes.xml
+│   │       │   └── drawable/
+│   │       │       └── splash_background.xml
+│   │       └── AndroidManifest.xml
+│   └── build.gradle.kts
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── build.gradle.kts
+├── settings.gradle.kts
+├── gradle.properties
+└── gradlew
